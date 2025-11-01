@@ -1,10 +1,10 @@
-# 🧮 Funções e Manipulação de Dados em JavaScript
+# Funções e Manipulação de Dados em JavaScript
 
 Este projeto é uma aplicação web simples desenvolvida com **HTML**, **CSS** e **JavaScript**, que demonstra o uso de diferentes tipos de **funções** e **manipulação de dados** em JavaScript.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O principal objetivo deste projeto é **praticar e demonstrar conceitos de funções em JavaScript**, incluindo:
 
@@ -14,7 +14,7 @@ O principal objetivo deste projeto é **praticar e demonstrar conceitos de funç
 
 ---
 
-## 🧩 Funcionalidades
+## Funcionalidades
 
 A aplicação contém três seções principais:
 
@@ -35,7 +35,7 @@ Demonstra o uso de **funções de callback** aplicadas a operações matemática
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **HTML5** → Estrutura do projeto  
 - **CSS3** → Estilização e layout responsivo  
